@@ -1,0 +1,28 @@
+<html> 
+<font color="blue"><h3>Splashtop</h3></font>
+<br>
+Splashtop es el software de acceso remoto líder que ofrece a los usuarios una experiencia remota perfecta, protocolos de seguridad líderes en la industria y admite el uso de software de alta potencia de forma remota.
+<br>
+Splashtop ofrece soluciones de soporte remoto extremadamente versátiles y se utiliza en varios sectores, incluidos la atención médica y la educación. Splashtop ayuda a mejorar la eficiencia operativa, agilizar los procesos y proporciona a los trabajadores remotos una experiencia laboral estable y segura. 
+<br>
+A diferencia de la mayoría de las distribuciones Linux, Splashtop está diseñado para ser integrado en un dispositivo de solo lectura e incorporado con el hardware, en vez de ser instalado por el usuario. 
+<br>
+El usuario puede instalar otro sistema operativo, pero éste siempre lo tiene listo para arrancar, en caso de que el otro esté dañado; o en caso de que la navegación por la web y el chateo sean suficientes. 
+<br>
+Arranca en cerca de 5 segundos. Por lo tanto es comercializado como “instant-on” (encendido o activación inmediata).
+<br>
+Un sistema operativo de “encendido inmediato” ofrece muchas ventajas sobre un sistema operativo tradicional:
+<br>
+Arranca mucho más rápido.
+<br>
+Sabiendo eso, el usuario vacilará menos antes de apagar el computador, lo que significa ahorrar energía.
+<br>
+Es menos vulnerable al malware pues el sistema es mayormente de solo lectura.
+<br>
+Permite computadoras sin disco duro.
+<br>
+Es más ligero pero es suficiente para correr una web desktop y aplicaciones web.
+<br>
+<img src=splashtop_com.jpg alt= width=20% height=20% />
+<br>
+<input type="button" value="Abrir aquí para mas información de Splashtop" onclick="window.open('https://www.splashtop.com/')" />
